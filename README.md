@@ -29,6 +29,8 @@ Available kernels:
 - Hack and glory await!
 
 ## MXNet examples
+![](https://c1.staticflickr.com/5/4846/31992384497_190f6af1b8_h.jpg)
+
 If you want to do an MXNet example, you can use a similar process above using these two notebooks:
 * mxnet/clojure_with_mxnet_example.ipynb
 * mxnet/install_iclojure_with_mxnet.ipynb
