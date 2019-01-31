@@ -1,7 +1,7 @@
 # Colab IClojure
 
 This Repo has some templates that will allow you to run Clojure code on [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
-
+![](https://c1.staticflickr.com/8/7858/46881073892_8f6fa874c7_b.jpg)
 It uses [IClojure](https://github.com/HCADatalab/IClojure) as the Jupyter kernel
 
 ## Instructions
