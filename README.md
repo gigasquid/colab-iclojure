@@ -23,7 +23,7 @@ Available kernels:
 
 ## Upload an IClojure notebook and connect
 
-- Hit *File/upload-notebooke*. Next upload the `iclojure_with_deps_example.ipynb`. Make sure you do not `reset your runtime`.
+- Hit *File/upload-notebook*. Next upload the `iclojure_with_deps_example.ipynb`. Make sure you do not `reset your runtime`.
 - Execute the first cell `(+ 1 1)`. It should connect to the IClojure kernel and execute.
 - You can add depenencies with `/cp`
 - Hack and glory await!
